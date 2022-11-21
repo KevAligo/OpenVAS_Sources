@@ -1,1 +1,4 @@
 # OpenVAS_Sources
+
+Obtenido de https://forum.greenbone.net/t/gvm-9-end-of-life-initial-release-2017-03-07/211
+
